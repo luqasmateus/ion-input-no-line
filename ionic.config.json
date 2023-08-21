@@ -1,0 +1,7 @@
+{
+  "name": "ion-input-no-line",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
